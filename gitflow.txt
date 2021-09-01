@@ -1,2 +1,3 @@
 echo "This is work flow"
 echo "I am used feature Brancch"
+echo "I am used release branch"
