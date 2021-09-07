@@ -1,5 +1,5 @@
 echo "This is work flow in git"
-echo "I am used feature Brancch"
+echo "I am used feature Branch"
 echo "I am used release branch"
 echo "I am used hotfix branch"
 echo "It is feature branch"
